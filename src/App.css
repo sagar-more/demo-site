@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+
+.row{
+    padding: 0 15px;
+}
+
+.card{
+    margin-bottom: 15px;
+    margin-right: 15px;
+    padding: 0;
+}
+
+.opacity-low{
+    opacity: 0.9;
+}
